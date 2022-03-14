@@ -993,6 +993,12 @@ font-size: 21px;
 {
   background-color:#3b5998
 }
+
+.social-icons a.whatsapp:hover
+{
+  background-color:#18994a
+}
+
 .social-icons a.twitter:hover
 {
   background-color:#00aced
